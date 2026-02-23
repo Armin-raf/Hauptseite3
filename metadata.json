@@ -1,0 +1,5 @@
+{
+  "name": "Hauptwebseite",
+  "description": "A high-performance landing page for a GDPR-compliant AI chatbot service designed for German SMEs, featuring real-time Gemini integration and a modern Three.js background.",
+  "requestFramePermissions": []
+}
