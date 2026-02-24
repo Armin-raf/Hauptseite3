@@ -13,7 +13,7 @@ const Solutions: React.FC = () => {
         'Automatisierung repetitiver Aufgaben,',
         'Optimierung für HR & Finanzen'
       ],
-      link: 'https://armin-raf.github.io/Blue-Process1/'
+      link: 'https://armin-raf.github.io/BlueAutomation/'
     },
     {
       icon: <MessageSquare className="w-8 h-8 text-white" />,
@@ -23,7 +23,7 @@ const Solutions: React.FC = () => {
         'Nutzung Ihrer Knowledge-Base,',
         'Lead-Qualifizierung rund um die Uhr'
       ],
-      link: 'https://armin-raf.github.io/Blue-ChatBot1/'
+      link: 'https://armin-raf.github.io/BlueChatBot/'
     },
     {
       icon: <Mic className="w-8 h-8 text-white" />,
@@ -33,7 +33,7 @@ const Solutions: React.FC = () => {
         'Inbound & Outbound Lösungen,',
         'Sofortige Anliegenklärung'
       ],
-      link: 'https://armin-raf.github.io/Blue-AI-Voice-Agent1/'
+      link: 'https://armin-raf.github.io/BlueAIVoiceAgent/'
     },
     {
       icon: <Server className="w-8 h-8 text-white" />,
@@ -43,7 +43,7 @@ const Solutions: React.FC = () => {
         'Betrieb im eigenen RZ,',
         'Maximale Datensouveränität'
       ],
-      link: 'https://armin-raf.github.io/Lokal-ChatBot1/'
+      link: 'https://armin-raf.github.io/LokalChatBot/'
     },
   ];
 
